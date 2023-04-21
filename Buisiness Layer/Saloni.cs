@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Buisiness_Layer
 {
-    internal class AutoSalon
+    internal class Saloni
     {
-        //barona
     }
 }
