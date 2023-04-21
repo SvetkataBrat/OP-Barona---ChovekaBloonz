@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Buisiness_Layer
 {
-    internal class AutoSalon
+    class Auto
     {
     }
 }
