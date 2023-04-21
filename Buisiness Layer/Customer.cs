@@ -16,6 +16,9 @@ namespace Buisiness_Layer
         public string FirstName { get; set; }
 
         [Required]
-        public string LAstName { get; set; }
+        public string LastName { get; set; }
+
+        [Required]
+        public int Age { get; set; }
     }
 }
