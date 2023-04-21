@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Buisiness_Layer
 {
-    class Auto
+    public class Auto
     {
 
     }

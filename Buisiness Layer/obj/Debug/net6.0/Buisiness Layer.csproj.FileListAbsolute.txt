@@ -1,0 +1,12 @@
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\bin\Debug\net6.0\Buisiness Layer.deps.json
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\bin\Debug\net6.0\Buisiness Layer.dll
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\bin\Debug\net6.0\Buisiness Layer.pdb
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.csproj.AssemblyReference.cache
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.AssemblyInfoInputs.cache
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.AssemblyInfo.cs
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.csproj.CoreCompileInputs.cache
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.dll
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\refint\Buisiness Layer.dll
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\Buisiness Layer.pdb
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net6.0\ref\Buisiness Layer.dll
