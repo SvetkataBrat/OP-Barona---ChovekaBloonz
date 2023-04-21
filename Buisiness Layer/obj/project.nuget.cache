@@ -1,21 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lOMbkRxjYUMp2XIIAieA98zkcQYhYYDg2Ym4ssVaE4fBX2jiq0q/Z2JUBCr1i4o6mjNwj2On3bzqI17SVs5iZg==",
+  "dgSpecHash": "DP4I30CDOslDCaFAmE/uhC6kbILqKDzxrQgzfokdNLaLFdsXm7JK9AABJfumkTK2QfNcWL0AkGrqUf1jiRiuJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timi\\Source\\Repos\\OP-Barona---ChovekaBloonz\\Buisiness Layer\\Buisiness Layer.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.5\\microsoft.entityframeworkcore.7.0.5.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.5\\microsoft.entityframeworkcore.abstractions.7.0.5.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.5\\microsoft.entityframeworkcore.analyzers.7.0.5.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Student\\Desktop\\brn\\Buisiness Layer\\Buisiness Layer.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
