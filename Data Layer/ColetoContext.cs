@@ -19,7 +19,12 @@ namespace Data_Layer
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=LAPTOP-AT94SBBO\\SQLEXPRESS;Database=ShopDb11J;Trusted_Connection=True;");
+            // Svetkata - Server=TIMI-PC\MSSQLSERVER03;Database=MusicDB;Trusted_Connection=True;Encrypt=false" -Provider "Microsoft.EntityFrameworkCore.SqlServer
+            // Ico - 
+            // Lucho -
+
+
+            optionsBuilder.UseSqlServer("Server=TIMI-PC\\MSSQLSERVER03;Database=MusicDB;Trusted_Connection=True;Encrypt=false\" -Provider \"Microsoft.EntityFrameworkCore.SqlServer");
             base.OnConfiguring(optionsBuilder);
         }
 
@@ -27,5 +32,11 @@ namespace Data_Layer
         {
             base.OnModelCreating(modelBuilder);
         }
+
+        public DbSet<Auto> Autos { get; set; }
+
+        public DbSet<Customer> Customers { get; set; }
+
+        public DbSet<AutoSalon> AutoSalons { get; set; }
     }
 }
