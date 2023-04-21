@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itcak\\Desktop\\pakta\\Buisiness Layer\\Buisiness Layer.csproj": {}
+    "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\Buisiness Layer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itcak\\Desktop\\pakta\\Buisiness Layer\\Buisiness Layer.csproj": {
+    "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\Buisiness Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itcak\\Desktop\\pakta\\Buisiness Layer\\Buisiness Layer.csproj",
+        "projectUniqueName": "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\Buisiness Layer.csproj",
         "projectName": "Buisiness Layer",
-        "projectPath": "C:\\Users\\itcak\\Desktop\\pakta\\Buisiness Layer\\Buisiness Layer.csproj",
-        "packagesPath": "C:\\Users\\itcak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itcak\\Desktop\\pakta\\Buisiness Layer\\obj\\",
+        "projectPath": "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\Buisiness Layer.csproj",
+        "packagesPath": "C:\\Users\\Timi\\.nuget\\packages\\",
+        "outputPath": "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\itcak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Timi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
