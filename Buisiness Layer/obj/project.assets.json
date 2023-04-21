@@ -568,11 +568,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\Buisiness Layer.csproj",
+      "projectUniqueName": "C:\\Users\\Timi\\Source\\Repos\\OP-Barona---ChovekaBloonz\\Buisiness Layer\\Buisiness Layer.csproj",
       "projectName": "Buisiness Layer",
-      "projectPath": "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\Buisiness Layer.csproj",
+      "projectPath": "C:\\Users\\Timi\\Source\\Repos\\OP-Barona---ChovekaBloonz\\Buisiness Layer\\Buisiness Layer.csproj",
       "packagesPath": "C:\\Users\\Timi\\.nuget\\packages\\",
-      "outputPath": "E:\\programing\\C#\\Personal_Projects\\Coleto\\Buisiness Layer\\obj\\",
+      "outputPath": "C:\\Users\\Timi\\Source\\Repos\\OP-Barona---ChovekaBloonz\\Buisiness Layer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
