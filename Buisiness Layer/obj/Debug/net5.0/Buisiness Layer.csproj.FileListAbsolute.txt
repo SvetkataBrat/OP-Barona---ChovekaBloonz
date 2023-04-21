@@ -1,0 +1,5 @@
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net5.0\Buisiness Layer.csproj.AssemblyReference.cache
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net5.0\Buisiness Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net5.0\Buisiness Layer.AssemblyInfoInputs.cache
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net5.0\Buisiness Layer.AssemblyInfo.cs
+C:\Users\Timi\Source\Repos\OP-Barona---ChovekaBloonz\Buisiness Layer\obj\Debug\net5.0\Buisiness Layer.csproj.CoreCompileInputs.cache
