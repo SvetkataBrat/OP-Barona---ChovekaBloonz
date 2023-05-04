@@ -10,12 +10,13 @@ namespace Data_Layer
     {
         void Create(T item);
 
-        T Read(K key, bool useNavigationalProperties = false);
+        T Read(K key);
 
-        IEnumerable<T> ReadAll(bool useNavigationalProperties = false);
+        IEnumerable<T> ReadAll();
 
-        void Update(T item, bool useNavigationalProperties = false);
+        void Update(T item);
 
         void Delete(K key);
 
     }
+}
