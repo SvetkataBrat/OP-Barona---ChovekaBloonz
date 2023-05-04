@@ -31,9 +31,5 @@ namespace Buisiness_Layer
             Name = name;
             Adress = adress;
         }
-
-
-
-
     }
 }
