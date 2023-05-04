@@ -16,6 +16,22 @@ namespace Buisiness_Layer
         public string FirstName { get; set; }
 
         [Required]
-        public string LAstName { get; set; }
+        public string LastName { get; set; }
+
+        [Required]
+        public string Address { get; set; }
+
+        private Customer()
+        {
+
+        }
+
+        public Customer(int id_, string firstName_, string lastName_, string address_)
+        {
+            Id = id_;
+            FirstName = firstName_;
+            LastName = lastName_;
+            Address = address_;
+        }
     }
 }

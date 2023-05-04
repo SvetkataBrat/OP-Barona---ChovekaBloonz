@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A59njf4gefXuoLsDWrqJLrnKQ06JH2dStmeMk8BT0mE+Y45qgelgGzTbJio4lIA4Z382wzLWNeO5mwR2NkWTAA==",
+  "dgSpecHash": "iUX+FRdUy8LoF79EH1sriiBG5qF/FLNTdTzSWw6l2KMB3n0obuXbbyakrSo2EJDV+lZLEnr/98CGHGzxE5Nr3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timi\\Source\\Repos\\OP-Barona---ChovekaBloonz\\Buisiness Layer\\Buisiness Layer.csproj",
+  "projectFilePath": "C:\\Users\\Timi\\source\\repos\\OP-Barona---ChovekaBloonz\\Buisiness Layer\\Buisiness Layer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0\\microsoft.entityframeworkcore.5.0.0.nupkg.sha512",
     "C:\\Users\\Timi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0\\microsoft.entityframeworkcore.abstractions.5.0.0.nupkg.sha512",
@@ -17,10 +17,7 @@
     "C:\\Users\\Timi\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\Timi\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Timi\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Timi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\Timi\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
